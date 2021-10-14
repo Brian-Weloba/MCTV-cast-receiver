@@ -1,8 +1,8 @@
 cast-media-player {
     --theme-hue: 275;
     --progress-color: #744c91;
-    --splash-image: url(../res/MyMoviesAfrica-logo.png);
+    --splash-image: url(https://brian-weloba.github.io/MCTV-cast-receiver/res/MyMoviesAfrica-logo.png);
     --splash-size: 500px;
-    --watermark-image: url(../res/MyMoviesAfrica-logo.png);
+    --watermark-image: url(https://brian-weloba.github.io/MCTV-cast-receiver/res/MyMoviesAfrica-logo.png);
     --watermark-size: 57px 57px;
 }
